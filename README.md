@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 About Me  
-- 🎯 I’m currently diving deeper into **MERN Stack** and **Cloud Deployment**  
-- 🌱 Learning **TypeScript** and **Next.js**  
-- 💬 Ask me about **React, Node.js, Express, MongoDB**  
-- ⚡ Fun fact: I love solving bugs more than writing code sometimes 😄  
+- 🎯 Currently diving deeper into <b>MERN Stack</b> and <b>Cloud Deployment</b>  
+- 🌱 Learning <b>TypeScript</b> and <b>Next.js</b>  
+- 💬 Ask me about <b>React, Node.js, Express, MongoDB</b>  
+- ⚡ Fun fact: I enjoy fixing bugs more than writing code sometimes 😄  
 
 ---
 
@@ -27,11 +27,14 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 💻 Coding in Action  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 </p>
 
 ---
@@ -39,13 +42,19 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sauravdeep01/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  &nbsp;&nbsp;
+  <a href="mailto:sauravdeep1711@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://portfolio-link.com" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sauravdeep01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://https://sauravdeep.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>

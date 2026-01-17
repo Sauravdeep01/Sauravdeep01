@@ -30,33 +30,32 @@
 ### 💻 Coding in Action  
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 💻 Developer Mode  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sauravdeep01/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  
-  &nbsp;&nbsp;
-  <a href="https://github.com/Sauravdeep01" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://https://sauravdeep.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-</p>
+```bash
+$ whoami
+> Saurav Deep
 
----
+$ role
+> Full Stack Developer | B.Tech CSE Student
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60">  
-  <br>
-  <i>"Code. Create. Conquer."</i>
-</p>
+$ tech_stack
+> HTML CSS JavaScript React Next.js Node.js Express MongoDB
+
+$ currently_learning
+> TypeScript Next.js Cloud Deployment
+
+$ focus
+> DSA Problem Solving | MERN Projects | Placement Preparation
+
+$ goal
+> Build scalable products & crack top tech placements 🚀

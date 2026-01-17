@@ -30,10 +30,6 @@
 ### 💻 Coding in Action  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 </p>
 
@@ -46,9 +42,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sauravdeep1711@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  
   &nbsp;&nbsp;
   <a href="https://github.com/Sauravdeep01" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
